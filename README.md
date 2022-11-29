@@ -5,7 +5,7 @@ All Copyrights are reserved by Smart Network
 In this video, learn to Build Your Scroll_Indicator_Bar using JavaScript | Scroll_Indicator_Bar Project.
 Find all the videos of the tHtml,Css ,JavaScript Project in this playlist: https://www.youtube.com/watch?v=yQ99QFp1zR0&list=PL_KC58w92iMKobC4OeZbgOr006-B5GyBL
 
-👉 Github Project File: 
+👉 Github Project File: https://github.com/SmartNetwork123/SmartNetwork_Scroll_Indicator_Bar
 
 We help businesses of all sizes to build their online presence, grow their business, and reach new heights. 
 
